@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600&family=Source+Sans+Pro:wght@200;300;400;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+:root{
+    --primary-color: #0cc440;
+    --secondary-color: #151616;
+    --third-color: #f98169;
+    --white-color: #fff;
+    --text-color: #555;
+    --black-color: #000;
+    --primary-font: 'Ubuntu', sans-serif;
+    --secondary-font: 'Ubuntu', sans-serif;
+} 
+
+body{
+    font-family: var(--primary-font);
+    font-size: 100%;
+    font-weight: 400;
+}
+
+p{
+    font-family: var(--primary-font);
+}
